@@ -202,11 +202,11 @@ function renderHomeScreen(container) {
 
   const homeHTML = `
     <div class="home-screen" id="home-screen">
-      <h1 class="home-title">منصة مدرسي</h1>
+      <h1 class="home-title">تطبيق مدرسي</h1>
       <p class="home-subtitle">الأسئلة الوزارية حول الاستفهام المجازي لقواعد اللغة العربية للصف السادس الإعدادي</p>
       
       <div class="home-steps-card">
-        <h3 class="home-steps-title">طريقة العمل المختصرة في المنصة:</h3>
+        <h3 class="home-steps-title">طريقة العمل المختصرة في التطبيق:</h3>
         <ul class="home-steps-list">
           <li>
             <span class="home-steps-num">١</span>
