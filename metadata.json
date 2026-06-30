@@ -1,0 +1,6 @@
+{
+  "name": "منصة مدرسي — الاستفهام المجازي",
+  "description": "منصة مدرسي التفاعلية للتقييم الذاتي لقواعد اللغة العربية للصف السادس الإعدادي — موضوع الاستفهام المجازي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
